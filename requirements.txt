@@ -1,0 +1,4 @@
+Flask
+pymilvus[model]
+numpy
+gunicorn
